@@ -1,0 +1,6 @@
+metrics:
+  reporter: console
+  storage: memory
+  data:
+    periodInSeconds: 60
+    durationInSeconds: 60

@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.night.metrics.config.SourceConfig,\
+  com.night.metrics.aspect.ApiMonitorAspect,\
+  com.night.metrics.util.SpringContextUtils
